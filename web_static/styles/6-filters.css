@@ -56,7 +56,6 @@ section.filters button:hover {
   border: 1px solid #DDDDDD;
   border-radius: 4px;
   left: -30px;
-  /* background-color: aqua; */
   z-index: 1;
   padding: 0px 30px 15px 0;
   list-style: none;
