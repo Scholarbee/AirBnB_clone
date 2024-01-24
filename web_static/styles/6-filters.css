@@ -24,8 +24,8 @@ section.filters button:hover {
   opacity: 90%;
 }
 
-.locations,
-.amenities {
+.filters .locations,
+.filters .amenities {
   width: 25%;
   height: 100%;
   padding-left: 30px;
@@ -42,7 +42,7 @@ section.filters button:hover {
 }
 
 .locations h4,
-.amenities h4 {
+.filters .amenities h4 {
   font-weight: 400;
   font-size: 14px;
   margin: 0 0 5px 0;
@@ -56,6 +56,7 @@ section.filters button:hover {
   border: 1px solid #DDDDDD;
   border-radius: 4px;
   left: -30px;
+  /* background-color: aqua; */
   z-index: 1;
   padding: 0px 30px 15px 0;
   list-style: none;
