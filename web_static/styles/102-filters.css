@@ -32,12 +32,12 @@ div.container section.filters div {
   position: relative;
 }
 
-/* .filters .locations,
+.filters .locations,
 .filters .amenities {
   width: 25%;
   height: 100%;
   padding-left: 30px;
-} */
+}
 
 .locations h3,
 .amenities h3 {
